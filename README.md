@@ -15,30 +15,43 @@ git clone [https://github.com/seu-usuario/alura_space.git](https://github.com/Co
 ```
 
 ## Entre na pasta do projeto
+```
 cd alura_space
+```
 
 ## Crie o ambiente virtual
 
 ### No Windows
-
+```
 python -m venv .env
+```
 
 ### No Linux
+```
 python3 -m venv .env
+```
 
 ## Ative o ambiente virtual
 
 ### No Windows
+```
 .env\Scripts\activate
+```
 
 ### No Linux
+```
 source .env/bin/activate
+```
 
 ## Instale as dependências
+```
 pip install -r requirements.txt
+```
 
 ## Inicie o projeto
+```
 python manage.py runserver
+```
 
 Agora você pode acessar o projeto em `http://localhost:8000/` no seu navegador.
 
