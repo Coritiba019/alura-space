@@ -6,7 +6,7 @@ Este é um guia simples para clonar, configurar e executar o projeto Alura Space
 
 Antes de começar, verifique se você possui os seguintes requisitos instalados em seu sistema:
 
-1. Python (versão 3.11 ou superior)
+1. Python (versão 3.6 ou superior)
 2. Git
 
 ## Clone o projeto
@@ -23,24 +23,24 @@ cd alura_space
 
 ### No Windows
 ```
-python -m venv .env
+python -m venv .venv
 ```
 
 ### No Linux
 ```
-python3 -m venv .env
+python3 -m venv .venv
 ```
 
 ## Ative o ambiente virtual
 
 ### No Windows
 ```
-.env\Scripts\activate
+.venv\Scripts\activate
 ```
 
 ### No Linux
 ```
-source .env/bin/activate
+source .venv/bin/activate
 ```
 
 ## Instale as dependências
