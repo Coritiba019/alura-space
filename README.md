@@ -10,7 +10,9 @@ Antes de começar, verifique se você possui os seguintes requisitos instalados 
 2. Git
 
 ## Clone o projeto
+```
 git clone [https://github.com/seu-usuario/alura_space.git](https://github.com/Coritiba019/alura-space.git)
+```
 
 ## Entre na pasta do projeto
 cd alura_space
