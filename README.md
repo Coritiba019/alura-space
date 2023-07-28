@@ -6,11 +6,11 @@ Este é um guia simples para clonar, configurar e executar o projeto Alura Space
 
 Antes de começar, verifique se você possui os seguintes requisitos instalados em seu sistema:
 
-1. Python (versão 3.6 ou superior)
+1. Python (versão 3.11 ou superior)
 2. Git
 
 ## Clone o projeto
-git clone https://github.com/seu-usuario/alura_space.git
+git clone [https://github.com/seu-usuario/alura_space.git](https://github.com/Coritiba019/alura-space.git)
 
 ## Entre na pasta do projeto
 cd alura_space
