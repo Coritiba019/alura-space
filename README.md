@@ -23,12 +23,12 @@ cd alura_space
 
 ### No Windows
 ```
-python -m venv .venv
+python -m virtualenv .venv
 ```
 
 ### No Linux
 ```
-python3 -m venv .venv
+python3 -m virtualenv .venv
 ```
 
 ## Ative o ambiente virtual
