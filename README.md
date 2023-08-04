@@ -23,6 +23,7 @@ cd alura_space
 
 ### No Windows
 ```
+pip install virtualenv
 python -m virtualenv .venv
 ```
 
